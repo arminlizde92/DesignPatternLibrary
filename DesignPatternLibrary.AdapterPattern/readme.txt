@@ -11,3 +11,8 @@ Our ADAPTER participiant 'SuperDivision' has to inherit from 'Division' but main
 of the 'Division' class
 
 - Source: https://exceptionnotfound.net/the-daily-design-pattern-adapter/
+
+Related patterns:
+- Repository
+- Strategy
+- Facade
