@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DesignPatternLibrary.ConsoleApp
 {
@@ -10,6 +6,10 @@ namespace DesignPatternLibrary.ConsoleApp
     {
         static void Main(string[] args)
         {
+            // Design_Patterns.Adapter.ShowExample();
+
+
+            Console.ReadKey();
         }
     }
 }
