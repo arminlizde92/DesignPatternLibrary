@@ -5,9 +5,11 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternLibrary.ConsoleApp", "DesignPatternLibrary.ConsoleApp\DesignPatternLibrary.ConsoleApp.csproj", "{72C8E76F-127A-4868-8898-E63C06C1342D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternLibrary.AdapterPattern", "DesignPatternLibrary.AdapterPattern\DesignPatternLibrary.AdapterPattern.csproj", "{676CAE7A-8442-4F43-B32C-492DA165F9EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatternLibrary.AdapterPattern", "DesignPatternLibrary.AdapterPattern\DesignPatternLibrary.AdapterPattern.csproj", "{676CAE7A-8442-4F43-B32C-492DA165F9EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternLibrary.BridgePattern", "DesignPatternLibrary.BridgePattern\DesignPatternLibrary.BridgePattern.csproj", "{273F009F-B8A1-4352-91C3-7D27F8BEB20E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatternLibrary.BridgePattern", "DesignPatternLibrary.BridgePattern\DesignPatternLibrary.BridgePattern.csproj", "{273F009F-B8A1-4352-91C3-7D27F8BEB20E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternLibrary.BuilderPattern", "DesignPatternLibrary.BuilderPattern\DesignPatternLibrary.BuilderPattern.csproj", "{CD19E956-CF37-49A0-8E66-AF5AD0576E5E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{273F009F-B8A1-4352-91C3-7D27F8BEB20E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{273F009F-B8A1-4352-91C3-7D27F8BEB20E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{273F009F-B8A1-4352-91C3-7D27F8BEB20E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD19E956-CF37-49A0-8E66-AF5AD0576E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD19E956-CF37-49A0-8E66-AF5AD0576E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD19E956-CF37-49A0-8E66-AF5AD0576E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD19E956-CF37-49A0-8E66-AF5AD0576E5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
