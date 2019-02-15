@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DesignPatternLibrary.BridgePattern;
+using System;
 
 namespace DesignPatternLibrary.ConsoleApp
 {
@@ -7,7 +8,7 @@ namespace DesignPatternLibrary.ConsoleApp
         static void Main(string[] args)
         {
             // Design_Patterns.Adapter.ShowExample();
-
+            // Design_Patterns.Bridge.ShowExample();
 
             Console.ReadKey();
         }

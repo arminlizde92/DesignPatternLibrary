@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternLibrary.Consol
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternLibrary.AdapterPattern", "DesignPatternLibrary.AdapterPattern\DesignPatternLibrary.AdapterPattern.csproj", "{676CAE7A-8442-4F43-B32C-492DA165F9EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternLibrary.BridgePattern", "DesignPatternLibrary.BridgePattern\DesignPatternLibrary.BridgePattern.csproj", "{273F009F-B8A1-4352-91C3-7D27F8BEB20E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{676CAE7A-8442-4F43-B32C-492DA165F9EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{676CAE7A-8442-4F43-B32C-492DA165F9EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{676CAE7A-8442-4F43-B32C-492DA165F9EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{273F009F-B8A1-4352-91C3-7D27F8BEB20E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{273F009F-B8A1-4352-91C3-7D27F8BEB20E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{273F009F-B8A1-4352-91C3-7D27F8BEB20E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{273F009F-B8A1-4352-91C3-7D27F8BEB20E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

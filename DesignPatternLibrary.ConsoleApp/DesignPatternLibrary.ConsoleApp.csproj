@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Design Patterns\Adapter.cs" />
+    <Compile Include="Design Patterns\Bridge.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -54,6 +55,10 @@
     <ProjectReference Include="..\DesignPatternLibrary.AdapterPattern\DesignPatternLibrary.AdapterPattern.csproj">
       <Project>{676cae7a-8442-4f43-b32c-492da165f9ee}</Project>
       <Name>DesignPatternLibrary.AdapterPattern</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DesignPatternLibrary.BridgePattern\DesignPatternLibrary.BridgePattern.csproj">
+      <Project>{273f009f-b8a1-4352-91c3-7d27f8beb20e}</Project>
+      <Name>DesignPatternLibrary.BridgePattern</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
